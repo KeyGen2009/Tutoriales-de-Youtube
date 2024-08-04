@@ -1,0 +1,13 @@
+# Ignorar cache de Visual Studio
+.vs/
+
+# Ignorar carpeta de binarios
+Debug/
+Release/
+bin/
+obj/
+x64/
+
+# Binarios a ignorar
+*.exe
+*.dll
