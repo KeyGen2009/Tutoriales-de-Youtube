@@ -11,3 +11,8 @@ x64/
 # Binarios a ignorar
 *.exe
 *.dll
+
+# Comprimidos subidos por Keygen2009
+*.rar
+*.zip
+*.7z
